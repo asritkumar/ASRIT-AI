@@ -1,9 +1,9 @@
 google-genai
+websockets
 fastapi
-uvicorn[standard]
+uvicorn
 python-multipart
 pillow
 python-docx
 openpyxl
 pypdf
-websockets
