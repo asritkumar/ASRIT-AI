@@ -1,0 +1,9 @@
+google-genai
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+python-docx
+openpyxl
+pypdf
+websockets
